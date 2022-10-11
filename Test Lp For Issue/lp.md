@@ -1,10 +1,10 @@
 categories:
   - python
-title: Test Lp For Issue
+title: Test Lp For Issue2
 description: git learning path for testing purpose to check the description is working or not properly. very long description
-isPremium: false
-isNew: false
-isAvailable: false
+isPremium: true
+isNew: true
+isAvailable: true
 scenarioCount: 1
 scenarios: 
   - Scenario Shafaq Test
