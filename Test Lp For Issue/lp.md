@@ -2,7 +2,7 @@ categories:
   - python
 title: Test Lp For Issue
 description: git learning path for testing purpose to check the description is working or not properly. very long description
-isPremium: true
+isPremium: false
 isNew: true
 isAvailable: true
 scenarioCount: 1
